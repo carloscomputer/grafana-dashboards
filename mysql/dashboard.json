@@ -65,7 +65,7 @@
           "bars": true,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 1,
           "legend": {
@@ -313,7 +313,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 4,
           "legend": {
@@ -429,7 +429,7 @@
             "rgba(237, 129, 40, 0.89)",
             "#299c46"
           ],
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "decimals": null,
           "format": "none",
           "gauge": {
@@ -541,7 +541,7 @@
             "rgba(237, 129, 40, 0.89)",
             "#d44a3a"
           ],
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "format": "none",
           "gauge": {
             "maxValue": 100,
@@ -666,7 +666,7 @@
             "rgba(237, 129, 40, 0.89)",
             "#d44a3a"
           ],
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "format": "none",
           "gauge": {
             "maxValue": 100,
@@ -779,7 +779,7 @@
             "rgba(237, 129, 40, 0.89)",
             "#d44a3a"
           ],
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "format": "none",
           "gauge": {
             "maxValue": 100,
@@ -891,7 +891,7 @@
             "rgba(237, 129, 40, 0.89)",
             "#d44a3a"
           ],
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "decimals": 1,
           "format": "s",
           "gauge": {
@@ -1002,7 +1002,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 3,
           "legend": {
@@ -1191,7 +1191,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 5,
           "legend": {
@@ -1335,7 +1335,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 6,
           "legend": {
@@ -1605,7 +1605,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 7,
           "legend": {
@@ -1729,7 +1729,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 9,
           "legend": {
@@ -1885,7 +1885,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 10,
           "legend": {
@@ -2054,7 +2054,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 11,
           "legend": {
@@ -2222,7 +2222,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 12,
           "legend": {
@@ -2378,7 +2378,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 14,
           "legend": {
@@ -2622,7 +2622,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "MySQL",
+          "datasource": "telegraf",
           "fill": 1,
           "id": 13,
           "legend": {
@@ -2801,7 +2801,7 @@
       {
         "allValue": null,
         "current": {},
-        "datasource": "MySQL",
+        "datasource": "telegraf",
         "hide": 0,
         "includeAll": false,
         "label": null,
